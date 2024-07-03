@@ -1,4 +1,4 @@
-public class firstProject{
+public class FirstProject{
     public static void main(String[] args) {
         System.out.println("Hello JAVA");
 		System.out.print("1");
