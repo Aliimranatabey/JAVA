@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class DoWhileDonguleri {
     public static void main(String[] args) {
         /*
