@@ -1,3 +1,4 @@
+package Donguler;
 public class CarpimTablosuOlusturma {
     public static void main(String[] args) {
         // İç içe for döngüsü kullanarak bir çarpım tablosu oluşturun
